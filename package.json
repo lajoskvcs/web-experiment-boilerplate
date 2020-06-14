@@ -1,0 +1,23 @@
+{
+  "name": "web-experiment-boilerplate",
+  "version": "1.0.0",
+  "description": "Web boilerplate with few dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lajoskvcs/web-experiment-boilerplate.git"
+  },
+  "author": "Lajos Kovács <lajoskvcs@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lajoskvcs/web-experiment-boilerplate/issues"
+  },
+  "homepage": "https://github.com/lajoskvcs/web-experiment-boilerplate#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
